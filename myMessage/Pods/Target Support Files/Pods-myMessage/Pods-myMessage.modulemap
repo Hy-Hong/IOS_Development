@@ -1,0 +1,6 @@
+framework module Pods_myMessage {
+  umbrella header "Pods-myMessage-umbrella.h"
+
+  export *
+  module * { export * }
+}
