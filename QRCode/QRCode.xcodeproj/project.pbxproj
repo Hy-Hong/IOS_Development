@@ -7,31 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		95DF653625185AE000490453 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95DF653525185AE000490453 /* AppDelegate.swift */; };
-		95DF653825185AE000490453 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95DF653725185AE000490453 /* ViewController.swift */; };
-		95DF653B25185AE000490453 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95DF653925185AE000490453 /* Main.storyboard */; };
-		95DF653D25185AE200490453 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95DF653C25185AE200490453 /* Assets.xcassets */; };
-		95DF654025185AE200490453 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95DF653E25185AE200490453 /* LaunchScreen.storyboard */; };
-		95DF65482518871B00490453 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95DF65472518871B00490453 /* TableViewCell.swift */; };
-		95DF654B251888F900490453 /* HeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95DF6549251888F900490453 /* HeaderCell.swift */; };
-		95DF654C251888F900490453 /* HeaderCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 95DF654A251888F900490453 /* HeaderCell.xib */; };
+		95C0851D259043D300D7061A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C0851C259043D300D7061A /* AppDelegate.swift */; };
+		95C0851F259043D300D7061A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C0851E259043D300D7061A /* ViewController.swift */; };
+		95C08522259043D300D7061A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95C08520259043D300D7061A /* Main.storyboard */; };
+		95C08524259043D500D7061A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95C08523259043D500D7061A /* Assets.xcassets */; };
+		95C08527259043D500D7061A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95C08525259043D500D7061A /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		95DF653225185AE000490453 /* reviewtableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = reviewtableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		95DF653525185AE000490453 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		95DF653725185AE000490453 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		95DF653A25185AE000490453 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		95DF653C25185AE200490453 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		95DF653F25185AE200490453 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		95DF654125185AE200490453 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		95DF65472518871B00490453 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
-		95DF6549251888F900490453 /* HeaderCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderCell.swift; sourceTree = "<group>"; };
-		95DF654A251888F900490453 /* HeaderCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HeaderCell.xib; sourceTree = "<group>"; };
+		95C08519259043D300D7061A /* QRCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QRCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		95C0851C259043D300D7061A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		95C0851E259043D300D7061A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		95C08521259043D300D7061A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		95C08523259043D500D7061A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		95C08526259043D500D7061A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		95C08528259043D500D7061A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		95DF652F25185AE000490453 /* Frameworks */ = {
+		95C08516259043D300D7061A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,74 +35,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		95DF652925185AE000490453 = {
+		95C08510259043D300D7061A = {
 			isa = PBXGroup;
 			children = (
-				95DF653425185AE000490453 /* reviewtableView */,
-				95DF653325185AE000490453 /* Products */,
+				95C0851B259043D300D7061A /* QRCode */,
+				95C0851A259043D300D7061A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		95DF653325185AE000490453 /* Products */ = {
+		95C0851A259043D300D7061A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				95DF653225185AE000490453 /* reviewtableView.app */,
+				95C08519259043D300D7061A /* QRCode.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		95DF653425185AE000490453 /* reviewtableView */ = {
+		95C0851B259043D300D7061A /* QRCode */ = {
 			isa = PBXGroup;
 			children = (
-				95DF653525185AE000490453 /* AppDelegate.swift */,
-				95DF653725185AE000490453 /* ViewController.swift */,
-				95DF653925185AE000490453 /* Main.storyboard */,
-				95DF65472518871B00490453 /* TableViewCell.swift */,
-				95DF6549251888F900490453 /* HeaderCell.swift */,
-				95DF654A251888F900490453 /* HeaderCell.xib */,
-				95DF653C25185AE200490453 /* Assets.xcassets */,
-				95DF653E25185AE200490453 /* LaunchScreen.storyboard */,
-				95DF654125185AE200490453 /* Info.plist */,
+				95C0851C259043D300D7061A /* AppDelegate.swift */,
+				95C0851E259043D300D7061A /* ViewController.swift */,
+				95C08520259043D300D7061A /* Main.storyboard */,
+				95C08523259043D500D7061A /* Assets.xcassets */,
+				95C08525259043D500D7061A /* LaunchScreen.storyboard */,
+				95C08528259043D500D7061A /* Info.plist */,
 			);
-			path = reviewtableView;
+			path = QRCode;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		95DF653125185AE000490453 /* reviewtableView */ = {
+		95C08518259043D300D7061A /* QRCode */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 95DF654425185AE200490453 /* Build configuration list for PBXNativeTarget "reviewtableView" */;
+			buildConfigurationList = 95C0852B259043D500D7061A /* Build configuration list for PBXNativeTarget "QRCode" */;
 			buildPhases = (
-				95DF652E25185AE000490453 /* Sources */,
-				95DF652F25185AE000490453 /* Frameworks */,
-				95DF653025185AE000490453 /* Resources */,
+				95C08515259043D300D7061A /* Sources */,
+				95C08516259043D300D7061A /* Frameworks */,
+				95C08517259043D300D7061A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = reviewtableView;
-			productName = reviewtableView;
-			productReference = 95DF653225185AE000490453 /* reviewtableView.app */;
+			name = QRCode;
+			productName = QRCode;
+			productReference = 95C08519259043D300D7061A /* QRCode.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		95DF652A25185AE000490453 /* Project object */ = {
+		95C08511259043D300D7061A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "Hy Horng";
 				TargetAttributes = {
-					95DF653125185AE000490453 = {
+					95C08518259043D300D7061A = {
 						CreatedOnToolsVersion = 10.1;
 					};
 				};
 			};
-			buildConfigurationList = 95DF652D25185AE000490453 /* Build configuration list for PBXProject "reviewtableView" */;
+			buildConfigurationList = 95C08514259043D300D7061A /* Build configuration list for PBXProject "QRCode" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,57 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 95DF652925185AE000490453;
-			productRefGroup = 95DF653325185AE000490453 /* Products */;
+			mainGroup = 95C08510259043D300D7061A;
+			productRefGroup = 95C0851A259043D300D7061A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				95DF653125185AE000490453 /* reviewtableView */,
+				95C08518259043D300D7061A /* QRCode */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		95DF653025185AE000490453 /* Resources */ = {
+		95C08517259043D300D7061A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				95DF654C251888F900490453 /* HeaderCell.xib in Resources */,
-				95DF654025185AE200490453 /* LaunchScreen.storyboard in Resources */,
-				95DF653D25185AE200490453 /* Assets.xcassets in Resources */,
-				95DF653B25185AE000490453 /* Main.storyboard in Resources */,
+				95C08527259043D500D7061A /* LaunchScreen.storyboard in Resources */,
+				95C08524259043D500D7061A /* Assets.xcassets in Resources */,
+				95C08522259043D300D7061A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		95DF652E25185AE000490453 /* Sources */ = {
+		95C08515259043D300D7061A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				95DF654B251888F900490453 /* HeaderCell.swift in Sources */,
-				95DF65482518871B00490453 /* TableViewCell.swift in Sources */,
-				95DF653825185AE000490453 /* ViewController.swift in Sources */,
-				95DF653625185AE000490453 /* AppDelegate.swift in Sources */,
+				95C0851F259043D300D7061A /* ViewController.swift in Sources */,
+				95C0851D259043D300D7061A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		95DF653925185AE000490453 /* Main.storyboard */ = {
+		95C08520259043D300D7061A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				95DF653A25185AE000490453 /* Base */,
+				95C08521259043D300D7061A /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		95DF653E25185AE200490453 /* LaunchScreen.storyboard */ = {
+		95C08525259043D500D7061A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				95DF653F25185AE200490453 /* Base */,
+				95C08526259043D500D7061A /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -174,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		95DF654225185AE200490453 /* Debug */ = {
+		95C08529259043D500D7061A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -235,7 +223,7 @@
 			};
 			name = Debug;
 		};
-		95DF654325185AE200490453 /* Release */ = {
+		95C0852A259043D500D7061A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -290,34 +278,34 @@
 			};
 			name = Release;
 		};
-		95DF654525185AE200490453 /* Debug */ = {
+		95C0852C259043D500D7061A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = reviewtableView/Info.plist;
+				INFOPLIST_FILE = QRCode/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Raveware.reviewtableView;
+				PRODUCT_BUNDLE_IDENTIFIER = Raveware.QRCode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		95DF654625185AE200490453 /* Release */ = {
+		95C0852D259043D500D7061A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = reviewtableView/Info.plist;
+				INFOPLIST_FILE = QRCode/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Raveware.reviewtableView;
+				PRODUCT_BUNDLE_IDENTIFIER = Raveware.QRCode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -327,25 +315,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		95DF652D25185AE000490453 /* Build configuration list for PBXProject "reviewtableView" */ = {
+		95C08514259043D300D7061A /* Build configuration list for PBXProject "QRCode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				95DF654225185AE200490453 /* Debug */,
-				95DF654325185AE200490453 /* Release */,
+				95C08529259043D500D7061A /* Debug */,
+				95C0852A259043D500D7061A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		95DF654425185AE200490453 /* Build configuration list for PBXNativeTarget "reviewtableView" */ = {
+		95C0852B259043D500D7061A /* Build configuration list for PBXNativeTarget "QRCode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				95DF654525185AE200490453 /* Debug */,
-				95DF654625185AE200490453 /* Release */,
+				95C0852C259043D500D7061A /* Debug */,
+				95C0852D259043D500D7061A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 95DF652A25185AE000490453 /* Project object */;
+	rootObject = 95C08511259043D300D7061A /* Project object */;
 }

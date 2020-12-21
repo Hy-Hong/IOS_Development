@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  reviewtableView
+//  QRCode
 //
-//  Created by Hy Horng on 9/21/20.
+//  Created by Hy Horng on 12/21/20.
 //  Copyright © 2020 Hy Horng. All rights reserved.
 //
 
